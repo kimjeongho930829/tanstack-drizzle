@@ -10,3 +10,5 @@ dist/
 
 # Vite
 .vite/
+
+.env
